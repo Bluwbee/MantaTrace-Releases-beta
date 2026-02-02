@@ -1,21 +1,54 @@
-MIT License
+Copyright © 2025 Bluwbee Ltd.
+All rights reserved.
 
-Copyright (c) 2026 Bluwbee
+This software is provided under a license agreement and remains the property
+of Bluwbee Ltd.
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+The installer may be downloaded free of charge. Use of the software is
+permitted only under the terms of this license, which include a time-limited
+evaluation period or a valid paid subscription.
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+1. License Grant
+   Subject to the terms of this agreement, Bluwbee Ltd. grants you a
+   non-exclusive, non-transferable, non-sublicensable license to install
+   and use the software in object code (binary) form only.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+2. Evaluation and Subscription
+   a. Evaluation Use:
+      You may use the software for evaluation purposes for a limited period
+      as specified by Bluwbee Ltd.
+   b. Subscription Use:
+      Continued use beyond the evaluation period requires an active,
+      paid subscription.
+
+3. Restrictions
+   You may not:
+   - Reverse engineer, decompile, or disassemble the software
+   - Modify or create derivative works of the software
+   - Redistribute, sublicense, rent, lease, or resell the software
+   - Access or attempt to access the software’s source code
+
+4. Ownership
+   All right, title, and interest in the software remain with Bluwbee Ltd.
+   No ownership rights are transferred under this agreement.
+
+5. No Warranty
+   THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+   IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+   FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT.
+
+6. Limitation of Liability
+   IN NO EVENT SHALL BLUWBEE LTD. BE LIABLE FOR ANY DAMAGES ARISING FROM THE USE
+   OR INABILITY TO USE THE SOFTWARE.
+
+7. Termination
+   This license terminates automatically if you breach its terms or if your
+   evaluation period or subscription expires. Upon termination, you must
+   cease all use of the software.
+
+8. Third-Party Software
+   This product includes third-party components licensed under open-source
+   licenses. Applicable attributions are provided where required.
+
+For licensing inquiries:
+support@bluwbee.com
